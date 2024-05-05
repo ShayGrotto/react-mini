@@ -2,8 +2,8 @@
 
 这是一个 React 的简易实现，用于学习 React 的基本用法。主要实现以下功能：
 
-- [ ] 完成 createFiber 方法
-- [ ] 完成 workLoop 方法
+- [x] 完成 createFiber 方法
+- [x] 完成 workLoop 方法
 - [ ] 创建 DOM 节点
 - [ ] 生成 Fiber 链表
 - [ ] 完成原生标签的初次渲染
